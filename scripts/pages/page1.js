@@ -13,7 +13,7 @@
 	var btn = new SMF.UI.TextButton({
 			name : "btn",
 			text : "Click Me!",
-			fontColor :"white",
+			fontColor :"#FFFFFF",
 			onPressed : page1_btn_onPressed,
 			width : "70%",
 			left : "15%",
